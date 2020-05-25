@@ -1,5 +1,4 @@
 # RGB-Guess-Game
-<<<<<<< HEAD
 > Guess the RGB value of random generated color with GUI
 
 ## Table of contents
@@ -36,10 +35,3 @@ Project is: _in progress_
 
 ## Contact
 Created by [@zielinp](https://www.linkedin.com/in/zielinp/) - feel free to contact me!
-=======
-Guess the RGB value of random generated color with GUI
-
-### POSSIBLE IMPROVEMENTS:
-- [ ] best scores ranking
-- [ ] additional box for user's selected color
->>>>>>> 96b364ffab9d7a8eade435d4442656984ee7330e
