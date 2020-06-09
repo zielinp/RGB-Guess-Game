@@ -3,6 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Demo] (#demo)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Features](#features)
@@ -11,6 +12,9 @@
 
 ## General info
 First game project created as part of learning the basics of JavaScript based on functional programming.
+
+## Demo
+https://zielinp.github.io/RGB-Guess-Game/
 
 ## Screenshots
 ![Main Page](./img/main_page.JPG)
