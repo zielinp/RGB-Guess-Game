@@ -2,9 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>RGB Game</title>
-
-
+    <title></title>
 
     <!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script> -->
     <script
@@ -18,53 +16,21 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="style.css">
-
-
-
   </head>
+
   <body>
+<div class="cont">
+  <h1 class="loader"><b>RGB GAME</b></h1>
+  <div class="text">
+    <h2><b>Witaj w grze RGB!</b></h2>
+     <h4>Twoim zadaniem będzie zgadnąć wartości składowe wylosowanego koloru.
+        Pamiętaj, że liczby te są w zakresie od 0 do 255. Będziesz miał trzy próby.
+        Powodzenia!</h4>
+        <a href="game.html" id="rozpocznij" class="loader btn btn-primary btn-lg">Rozpocznij grę!</a>
 
-
-
-  <div class="container">
-    <h1 class="loader"><b>RGB GAME</b></h1>
-
-
-<div class="box_i_wartosci">
-
-<div id="box" class="box box-4"></div>
-
-  <div class="colorsValue">
-    <form class="" action="index.html" method="post">
-      <input id="redValue" class="form-control" type="number" placeholder="RED value" min="0" max="255">
-      <input id="greenValue" class="form-control" type="number" placeholder="GREEN value" min="0" max="255">
-      <input id="blueValue" class="form-control" type="number" placeholder="BLUE value" min="0" max="255">
-   </form>
- </div>
-
-</div>
-
-  <div class="przyciski">
-    <input id="losuj" class="loader btn btn-primary btn-lg" type="submit" value="Losuj">
-    <input id="zatwierdz" class="loader btn btn-primary btn-lg" type="submit" value="Zatwierdź">
   </div>
-
-<div class="komunikaty_i_nowa_gra">
-
-  <div class="informacje">
-    <div id="wynik"></div>
-  <div id="proby"></div>
-  </div>
-  <input id="nowaGra" class="loader btn btn-primary btn-lg" type="submit" value="Nowa gra">
-
 </div>
-</div>
-
-
-
-
 
     <script src="main.js"></script>
-
   </body>
 </html>

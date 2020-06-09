@@ -7,10 +7,6 @@
   z-index: -10;
 }
 
-
-
-
-
 /* /////////////////////////////////////////////////////////////////////////////////// */
 
 /* KSZTAŁTY I ROZMIARY ELEMENTÓW */
@@ -24,7 +20,7 @@
   margin: 1rem;
   /* position: relative; */
   width: 200px;
-  
+
 }
 
 .box-4 {
@@ -39,8 +35,6 @@
   margin-bottom: 10px ;
   margin-left: 25px;
   margin-right: 25px;
-
-
 }
 
 .colorsValue{
@@ -53,7 +47,6 @@ h1{
   font-size: 5em;
   text-align: center;
   color: #337ab7;
-
 }
 
 
@@ -61,7 +54,6 @@ h1{
   border: 1px solid black;
   width:150px;
   height: 25px;
-
 }
 
 .form-control{
@@ -95,14 +87,12 @@ h1{
 
 /* /////////////////////////////////////////////////////////////////////////////////// */
 
-/* MAIN.HTML */
+/* INDEX.HTML */
 
 .text{
   text-align: center;
   text-align: justify;
 }
-
-
 
 .text{
   width: 600px;
@@ -120,8 +110,6 @@ h1{
 #rozpocznij{
   margin-top: 20px;
 }
-
-
 
 
 
@@ -150,12 +138,6 @@ h1{
 
 
 
-
-
-
-
-
-
 .loader {
   filter:hue-rotate(0deg);
   color: linear-gradient(45deg,#0f8,#08f);
@@ -169,23 +151,6 @@ h1{
 }
 
 
-
-
-
-
-/* div{
-  border: 1px solid black;
-} */
-
-
-/* #box{
-  top:0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-  position: relative;
-} */
 
 .container{
     /* border: 1px solid black; */
